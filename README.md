@@ -6,8 +6,8 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SantiagoGomezMarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saantg/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-SantiagoGomez-9C27B0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/santiagomaring05)
-[![Email](https://img.shields.io/badge/Email-santiago.gomez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagomaring05@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-santiagomaring05-9C27B0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/santiagomaring05)
+[![Email](https://img.shields.io/badge/Email-santiagomaring05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagomaring05@gmail.com)
 
 
 ---
