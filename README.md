@@ -1,62 +1,196 @@
-#  Hola — Soy Santiago Gómez Marín
+# 👋 Hi, I'm Santiago Gómez Marín
 
- Systems & Computer Engineering Student · Aspiring Cybersecurity Analyst  
- Practicing Docker Labs, OWASP, PrivEsc, and Fortinet fundamentals
+<h3 align="center">
+Systems & Computer Engineering Student • Backend Developer • Cybersecurity Enthusiast
+</h3>
 
----
+<p align="center">
+Passionate about building secure applications, learning modern technologies, and solving real-world problems.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SantiagoGomezMarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saantg/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-santiagomaring05-9C27B0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/santiagomaring05)
-[![Email](https://img.shields.io/badge/Email-santiagomaring05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagomaring05@gmail.com)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/saantg/">
+<img src="https://img.shields.io/badge/LinkedIn-SantiagoGomezMarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://tryhackme.com/p/santiagomaring05">
+<img src="https://img.shields.io/badge/TryHackMe-santiagomaring05-9C27B0?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
-##  Sobre mí
-Estudiante de Ingenieria de sistemas y compitación apasionado por la ciberseguridad y el aprendizaje práctico. Actualmente construyo y documento laboratorios en Docker (writeups), 
-practico en TryHackMe y estudio Fortinet y redes. Busco mi primer rol como **Junior Security Analyst / SOC / Pentester junior**.
+<a href="mailto:santiagomaring05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-##  Stack & Herramientas
-- **Pentesting / Recon:** Nmap, Burp Suite, sqlmap, Gobuster, wfuzz  
-- **Contenedores & Dev:** Docker, docker-compose, Git, Linux (Kali)  
-- **Scripting & Automatización:** Python, Bash  
-- **Otras:** Wireshark, Metasploit, OWASP Juice Shop, DVWA
-
----
-
-##  Proyectos destacados
-| Proyecto | Tipo | Descripción |
-|---|---:|---|
-| `cybersecurity-writeups` | Writeups & Labs | Colección de writeups (Juice Shop, DVWA, WebGoat). Contiene docker-compose, screenshots y writeups en Markdown. |
-| `docker-security-labs` | Labs | Labs dockerizados para practicar exploits y escalada de privilegios. |
-| `python-security-tools` | Scripts | Scripts para automatizar reconocimiento y extracción de información. |
-| `santiago-portfolio` | Web | (Opcional) Portfolio con GitHub Pages mostrando writeups y proyectos. |
-
-> **Ver repos pinned** en mi perfil para acceder rápido a los proyectos.
+</p>
 
 ---
 
-## Formación & Certificaciones (en curso)
-- Fortinet (self-study)  
-- Curso Cisco de Ciberseguridad (en progreso)  
-- TryHackMe: rutas de Web Fundamentals y Offensive Security
+# 🚀 About Me
+
+🎓 Systems & Computer Engineering Student from Colombia.
+
+I enjoy combining **software development** with **cybersecurity**, building secure and scalable applications while continuously improving my technical skills.
+
+Currently I'm focused on:
+
+- 🔐 Cybersecurity & Ethical Hacking
+- ☕ Backend Development with Spring Boot
+- 🅰️ Frontend Development with Angular
+- 🐳 Docker & Containerized Development
+- 🗄️ Oracle SQL & PL/SQL
+- 🐧 Linux Administration
+- 🌐 REST APIs
+- ⚡ Learning DevOps best practices
+
+I'm looking to grow as a **Backend Developer**, **Security Analyst**, or **SOC Analyst**, where I can contribute while continuing to learn.
 
 ---
 
-##  Cómo uso este repositorio
-- Cada lab tiene su carpeta con: `writeup.md`, `docker-compose.yml`, `screenshots/` y `notes.txt`.  
-- Mis writeups siguen una plantilla: Recon → Explotación → Escalada → Evidencias → Mitigación.
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge)
 
 ---
 
+### Backend
 
-
-##  Contacto
-- LinkedIn: https://www.linkedin.com/in/saantg/
-- Email: santiagomaring05@gmail.com
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
->  “Construyo labs, documento cada paso y aprendo a fondo — listo para aportar en seguridad real.”
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+### Databases
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+### Cybersecurity
+
+- Nmap
+- Burp Suite
+- Wireshark
+- Gobuster
+- Wfuzz
+- sqlmap
+- Metasploit
+- OWASP Top 10
+- DVWA
+- OWASP Juice Shop
+- TryHackMe
+
+---
+
+# 📚 Currently Learning
+
+- Angular
+- Spring Boot
+- Docker
+- PL/SQL
+- Oracle Database
+- REST API Design
+- Linux Hardening
+- Fortinet Security
+- Secure Coding Practices
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Cybersecurity Labs
+
+Hands-on labs documenting reconnaissance, exploitation, privilege escalation, and mitigation techniques using Docker environments.
+
+---
+
+## 🔹 Spring Boot REST APIs
+
+Building scalable backend applications using:
+
+- Spring Boot
+- REST APIs
+- Authentication
+- Docker
+- Oracle Database
+
+---
+
+## 🔹 Angular Applications
+
+Modern frontend applications connected to REST APIs using Angular.
+
+---
+
+## 🔹 Docker Environments
+
+Containerized development environments for Angular, Spring Boot, Oracle, and security labs.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saantt&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saantt&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Master Angular
+- ✅ Improve Docker & DevOps skills
+- ✅ Deepen Oracle SQL & PL/SQL knowledge
+- ✅ Build complete Full Stack applications
+- ✅ Continue cybersecurity labs and writeups
+- ✅ Earn industry certifications
+- ✅ Contribute to Open Source
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**santiagomaring05@gmail.com**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/saantg
+
+🎯 **TryHackMe**
+
+https://tryhackme.com/p/santiagomaring05
+
+---
+
+> *"Technology is not only about building software—it's about building secure, scalable, and meaningful solutions."*
